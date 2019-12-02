@@ -1,7 +1,5 @@
 <html> 
 
-<? php
-phpinfo ();
-?>
+<marquee> Olá DevOpeiros ! </marquee>
 
 </html> 
