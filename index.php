@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php 
-echo "<p>Aloha 3!</p>";
+echo "<p>Olá Mundo!</p>";
 echo "<p> Exemplo de deploy contínuo com ferramentas SaaS </p>";
  ?>
  </body>
